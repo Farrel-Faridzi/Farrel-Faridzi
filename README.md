@@ -22,7 +22,7 @@ I'm currently enhancing my skills in Python, focusing on data manipulation, visu
 - Python-based tools or educational resources
 
 ### 📫 How to Reach Me
-- **Email**: [farrel.faridzi.liwungang@gmail.com](mailto:farrel.faridzi.liwungang@gmail.com)
+- **Email**: [farrel.liwungang@gmail.com](mailto:farrel.liwungang@gmail.com)
 - **LinkedIn**: [Farrel Faridzi Liwungang](https://www.linkedin.com/in/farrel-faridzi-liwungang/)
 
 ### 😄 Pronouns
